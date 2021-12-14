@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: ArenaPartyTarget
+## Author: Dreamz
+## Version: 1.0
+## Notes: Automatically calls out your current target to party chat.
+ArenaPartyTarget.lua
